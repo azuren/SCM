@@ -1,0 +1,15 @@
+D:\ADV PROGRAMMING PROJECT\JuiceBoostAzuRain\JuiceBoostAzuRain\bin\Debug\JuiceBoostAzuRain.exe
+D:\ADV PROGRAMMING PROJECT\JuiceBoostAzuRain\JuiceBoostAzuRain\bin\Debug\JuiceBoostAzuRain.pdb
+D:\ADV PROGRAMMING PROJECT\JuiceBoostAzuRain\JuiceBoostAzuRain\obj\x86\Debug\JuiceBoostAzuRain.Form1.resources
+D:\ADV PROGRAMMING PROJECT\JuiceBoostAzuRain\JuiceBoostAzuRain\obj\x86\Debug\JuiceBoostAzuRain.Menu.resources
+D:\ADV PROGRAMMING PROJECT\JuiceBoostAzuRain\JuiceBoostAzuRain\obj\x86\Debug\JuiceBoostAzuRain.Properties.Resources.resources
+D:\ADV PROGRAMMING PROJECT\JuiceBoostAzuRain\JuiceBoostAzuRain\obj\x86\Debug\JuiceBoostAzuRain.csproj.GenerateResource.Cache
+D:\ADV PROGRAMMING PROJECT\JuiceBoostAzuRain\JuiceBoostAzuRain\obj\x86\Debug\JuiceBoostAzuRain.exe
+D:\ADV PROGRAMMING PROJECT\JuiceBoostAzuRain\JuiceBoostAzuRain\obj\x86\Debug\JuiceBoostAzuRain.pdb
+D:\ADV PROGRAMMING PROJECT\JuiceBoostAzuRain\JuiceBoostAzuRain\obj\x86\Debug\JuiceBoostAzuRain.csprojResolveAssemblyReference.cache
+D:\ADV PROGRAMMING PROJECT\JuiceBoostAzuRain\JuiceBoostAzuRain\bin\Debug\Sales.mdf
+D:\ADV PROGRAMMING PROJECT\JuiceBoostAzuRain\JuiceBoostAzuRain\bin\Debug\Sales_log.ldf
+D:\ADV PROGRAMMING PROJECT\JuiceBoostAzuRain\JuiceBoostAzuRain\bin\Debug\JuiceBoostAzuRain.exe.config
+D:\ADV PROGRAMMING PROJECT\JuiceBoostAzuRain\JuiceBoostAzuRain\obj\x86\Debug\JuiceBoostAzuRain.Report.resources
+D:\ADV PROGRAMMING PROJECT\JuiceBoostAzuRain\JuiceBoostAzuRain\obj\x86\Debug\RdlCompile.cache
+D:\ADV PROGRAMMING PROJECT\JuiceBoostAzuRain\JuiceBoostAzuRain\obj\x86\Debug\RdlCompile.compiled
